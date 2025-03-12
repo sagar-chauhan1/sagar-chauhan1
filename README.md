@@ -5,13 +5,13 @@
 *Full Stack Java Developer  
 📍 Pune, India 🇮🇳 | 🚀 Transforming ideas into production-grade solutions since 2021
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sagar-chauhan1)
-[![GitHub Followers](https://img.shields.io/github/followers/Prasad-Bhumkar?logo=github&style=social)](https://github.com/sagar-chauhan1)
+[![Profile Views](https://komarev.com/ghpvc/?username=sagar-chauhan1&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sagar-chauhan1)
+[![GitHub Followers](https://img.shields.io/github/followers/sagar-chauhan1?logo=github&style=social)](https://github.com/sagar-chauhan1)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-Bhumkar&show_icons=true&theme=radical&hide_title=true)](https://github.com/sagar-chauhan1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Bhumkar&layout=compact&theme=radical)](https://github.com/sagar-chauhan1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-chauhan1&show_icons=true&theme=radical&hide_title=true)](https://github.com/sagar-chauhan1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-chauhan1&layout=compact&theme=radical)](https://github.com/sagar-chauhan1)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasad-Bhumkar&theme=radical)](https://github.com/sagar-chauhan1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-chauhan1&theme=radical)](https://github.com/sagar-chauhan1)
 
 </div>
 
@@ -44,9 +44,7 @@ I'm a results-driven full-stack developer with expertise in building scalable Ja
 ### Tools & Technologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-
 ---
-
 
 ## 🎯 Future Focus
 
@@ -56,7 +54,6 @@ I'm a results-driven full-stack developer with expertise in building scalable Ja
 - Contribute to Apache Software Foundation projects
 
 ---
-
 
 ## 🎨 Beyond the Screen
 
@@ -69,7 +66,7 @@ I'm a results-driven full-stack developer with expertise in building scalable Ja
 
 ## 📫 Let's Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sagar-chauhan-06091b342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-chauhan-06091b342)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar-chauhan1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sc0738489@gmail.com)
 
